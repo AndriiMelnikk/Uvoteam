@@ -1,0 +1,14 @@
+{
+    "name": "intersection",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "devDependencies": {
+      "jest": "26.6.3"
+    },
+    "scripts": {
+      "test": "jest",
+      "start": "node index.js"
+    },
+    "keywords": []
+  }
